@@ -1,0 +1,75 @@
+
+#divmain1{
+    display: flex;
+    justify-content: end;
+}
+#divmain1>a{
+    margin: 10px;
+    text-decoration: none;
+}
+#divmain1span{
+    margin: 10px;
+}
+#divmain2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    gap: 50px;
+}
+#main2>div>button{
+    background-color: blue;
+
+}
+#main3{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+    #divsub{
+        height: 15vh;
+    }
+    img {
+        height: 25vh;
+        transform:translateY(-15vh) ;
+    }
+
+
+
+}
+#main3>div{
+    margin: 20px;
+
+
+}
+
+#sub4{
+    background-color: silver;
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+}
+  
+
+h3{
+    transform: rotate(-90deg);
+    margin-right: 1000px;
+    font-size: 20px;
+    
+
+}
+h1{
+    
+    font-size: 20px;
+    
+}
+p{
+    text-align: center;
+}
+
+#main3 >#divsub{
+    background-color:rgb(243, 225, 225);
+    height: 10rem;
+}
+
+
+
